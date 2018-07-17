@@ -3,12 +3,16 @@ A config editing tool for Titanfall 2
 
 Not too bad. Suggestions and Bugs can be submitted as issues on Github.
 
-## Support
+# Support
 Join the discord for support and discussion.
 
 Discord : https://discord.gg/M4Cyzkx
 
-## Credits
-```Designer : endigma```
-```Coder : Shay Panda```
-```DirectXeon : Crosshair previews```
+# Credits
+```
+Developer: Shay Panda
+Designer : Endigma 
+
+Special Thanks:
+DirectXeon
+```
