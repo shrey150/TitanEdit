@@ -9,6 +9,6 @@ Join the discord for support and discussion.
 Discord : https://discord.gg/M4Cyzkx
 
 ## Credits
-Designer : endigma
-Coder : Shay Panda
-DirectXeon : Crosshair previews
+```Designer : endigma```
+```Coder : Shay Panda```
+```DirectXeon : Crosshair previews```
