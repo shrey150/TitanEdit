@@ -1,7 +1,9 @@
 # TitanEdit
 A config editing tool for Titanfall 2
 
-Not too bad.
+Not too bad. Suggestions and Bugs can be submitted as issues on Github.
+
+
 Join the discord for support and discussion.
 
 Discord : https://discord.gg/M4Cyzkx
