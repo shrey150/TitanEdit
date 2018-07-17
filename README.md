@@ -9,8 +9,10 @@ Join the discord for support and discussion.
 Discord : https://discord.gg/M4Cyzkx
 
 # Credits
+
 Developer: Shay Panda
 Designer : Endigma 
 
 # Special Thanks:
+
 DirectXeon
