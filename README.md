@@ -16,4 +16,4 @@ Designer : Endigma
 
 # Special Thanks:
 
-DirectXeon
+DirectXeon - Crosshair Previews
